@@ -8,6 +8,6 @@ int main (int argc, char const *argv[])
 {
 	int x = 10, y = 5;
 	cout << "Sveika aritmetika!";
-	cout << "x + y = " << sudetis(x,y);
+	cout << "prie x pridejus y gausime  " << sudetis(x,y);
 	return 0;
 }
